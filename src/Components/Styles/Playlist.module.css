@@ -1,0 +1,12 @@
+.ul {
+    list-style-type: none;
+    padding: 0;
+    color: white;
+    text-align: left;
+}
+
+.li {
+    border: 1px solid white;
+    margin: 10px;
+    padding: 5px;
+}
